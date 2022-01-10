@@ -86,3 +86,5 @@ Apply manifests under `k8s/` for your cluster and registry (adjust images and se
 ## Contributing
 
 Issues and pull requests are welcome.
+
+- *2022-01-11* — Mark pipeline list default ordering (CI runner)
