@@ -50,3 +50,4 @@ class IntegrationDetailView(generics.RetrieveUpdateDestroyAPIView):
     queryset = CISystemIntegration.objects.all()
     serializer_class = CISystemIntegrationSerializer
     permission_classes = [permissions.IsAuthenticated] 
+# 2022-01-12: Adjust K8s CPU requests for backend (staging)
