@@ -60,3 +60,4 @@ class CISystemIntegration(models.Model):
 
     def __str__(self):
         return f"{self.pipeline.name} - {self.system_type}" 
+# 2022-01-16: Stub build status transition rules (staging)
