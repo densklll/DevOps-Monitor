@@ -20,3 +20,4 @@ class CISystemIntegrationSerializer(serializers.ModelSerializer):
     class Meta:
         model = CISystemIntegration
         fields = '__all__' 
+# 2022-01-17: Tighten settings module env toggles (staging)
