@@ -69,3 +69,4 @@ def analyze_trend():
     slope, intercept = np.polyfit(x, y, 1)
     trend = 'увеличивается' if slope > 0 else 'уменьшается' if slope < 0 else 'стабильно'
     return {'trend': trend, 'slope': slope, 'moving_average': float(np.mean(durations))} 
+# 2022-01-17: Tighten notification retry semantics (prod checklist)
