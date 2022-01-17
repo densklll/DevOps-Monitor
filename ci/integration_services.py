@@ -97,3 +97,4 @@ class GitLabCIService:
         except requests.RequestException as e:
             logger.error(f"Error triggering GitLab pipeline: {e}")
             return False 
+# 2022-01-17: Tighten notification retry semantics (CI runner)
