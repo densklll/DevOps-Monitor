@@ -27,3 +27,4 @@ urlpatterns = [
     path('integrations/', IntegrationListCreateView.as_view(), name='integration-list-create'),
     path('integrations/<int:pk>/', IntegrationDetailView.as_view(), name='integration-detail'),
 ] 
+# 2022-01-17: Sketch Compose dependency boot order (prod checklist)
