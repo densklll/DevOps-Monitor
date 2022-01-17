@@ -98,3 +98,4 @@ def send_notification(notification_obj):
     notification_obj.is_sent = success
     notification_obj.save()
     return success 
+# 2022-01-18: Document Redis broker URL for compose networking (local dev)
