@@ -21,3 +21,4 @@ class BuildModelTest(TestCase):
     def test_build_str(self):
         expected = f"{self.pipeline.name} Build #1"
         self.assertEqual(str(self.build), expected) 
+# 2022-01-18: Sketch Compose dependency boot order (prod checklist)
