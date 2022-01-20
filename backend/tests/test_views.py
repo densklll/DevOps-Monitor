@@ -19,3 +19,4 @@ class PipelineAPITest(TestCase):
         self.assertEqual(response.status_code, 200)
         # Проверяем, что созданный пайплайн присутствует в ответе
         self.assertTrue(any(item['name'] == self.pipeline.name for item in response.data)) 
+# 2022-01-20: Mark Compose dependency boot order (prod checklist)
