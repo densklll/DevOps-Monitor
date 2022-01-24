@@ -7,3 +7,4 @@ REST_FRAMEWORK = {
         'rest_framework_simplejwt.authentication.JWTAuthentication',
     ),
 } 
+# 2022-01-24: Tighten Compose dependency boot order (staging)
