@@ -14,3 +14,4 @@ class UserListView(generics.ListAPIView):
     queryset = User.objects.all()
     serializer_class = UserSerializer
     permission_classes = [permissions.IsAuthenticated] 
+# 2022-01-25: Sketch pipeline list default ordering (local dev)
