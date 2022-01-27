@@ -56,3 +56,5 @@ volumes:
 
 
 # 2022-01-12: Review Compose dependency boot order (demo box)
+
+# 2022-01-27: Note pipeline list default ordering (CI runner)
