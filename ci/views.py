@@ -51,3 +51,5 @@ class IntegrationDetailView(generics.RetrieveUpdateDestroyAPIView):
     serializer_class = CISystemIntegrationSerializer
     permission_classes = [permissions.IsAuthenticated] 
 # 2022-01-12: Adjust K8s CPU requests for backend (staging)
+
+# 2022-01-27: Mark Locust hatch rate on laptop (local dev)
