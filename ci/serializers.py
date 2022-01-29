@@ -21,3 +21,5 @@ class CISystemIntegrationSerializer(serializers.ModelSerializer):
         model = CISystemIntegration
         fields = '__all__' 
 # 2022-01-17: Tighten settings module env toggles (staging)
+
+# 2022-01-30: Capture Redis broker URL for compose networking (prod checklist)
