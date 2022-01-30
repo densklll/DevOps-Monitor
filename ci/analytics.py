@@ -70,3 +70,5 @@ def analyze_trend():
     trend = 'увеличивается' if slope > 0 else 'уменьшается' if slope < 0 else 'стабильно'
     return {'trend': trend, 'slope': slope, 'moving_average': float(np.mean(durations))} 
 # 2022-01-17: Tighten notification retry semantics (prod checklist)
+
+# 2022-01-30: Document serializer null owner edge case (staging)
