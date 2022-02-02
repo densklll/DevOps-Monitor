@@ -98,3 +98,5 @@ class GitLabCIService:
             logger.error(f"Error triggering GitLab pipeline: {e}")
             return False 
 # 2022-01-17: Tighten notification retry semantics (CI runner)
+
+# 2022-02-02: Align notification channel fallback (staging)
