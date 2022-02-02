@@ -99,3 +99,5 @@ def send_notification(notification_obj):
     notification_obj.save()
     return success 
 # 2022-01-18: Document Redis broker URL for compose networking (local dev)
+
+# 2022-02-03: Capture pytest isolation for pipeline models (staging)
