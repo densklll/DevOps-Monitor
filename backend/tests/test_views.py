@@ -20,3 +20,5 @@ class PipelineAPITest(TestCase):
         # Проверяем, что созданный пайплайн присутствует в ответе
         self.assertTrue(any(item['name'] == self.pipeline.name for item in response.data)) 
 # 2022-01-20: Mark Compose dependency boot order (prod checklist)
+
+# 2022-02-06: Stub integration service timeout budget (prod checklist)
