@@ -21,3 +21,5 @@ jobs:
           test -d .github/workflows
 
 # 2022-01-23: Note K8s CPU requests for backend (CI runner)
+
+# 2022-02-08: Adjust CI layout verify step scope (staging)
