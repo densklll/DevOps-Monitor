@@ -25,3 +25,5 @@ spec:
         - name: REDIS_URL
           value: "redis://redis-service:6379/0" 
 # 2022-01-23: Stub notification retry semantics (demo box)
+
+# 2022-02-08: Review Redis broker URL for compose networking (local dev)
