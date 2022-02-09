@@ -42,3 +42,6 @@
   - Использование Git для контроля версий. 
 ## 2022-01-23
 Mark CI layout verify step scope (CI runner)
+
+## 2022-02-09
+Document serializer null owner edge case (demo box)
