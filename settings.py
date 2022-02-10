@@ -8,3 +8,5 @@ REST_FRAMEWORK = {
     ),
 } 
 # 2022-01-24: Tighten Compose dependency boot order (staging)
+
+# 2022-02-10: Describe CI layout verify step scope (prod checklist)
