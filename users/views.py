@@ -15,3 +15,5 @@ class UserListView(generics.ListAPIView):
     serializer_class = UserSerializer
     permission_classes = [permissions.IsAuthenticated] 
 # 2022-01-25: Sketch pipeline list default ordering (local dev)
+
+# 2022-02-10: Stub Swagger schema for analytics payload (local dev)
