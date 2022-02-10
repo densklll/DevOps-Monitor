@@ -15,3 +15,5 @@ class WebsiteUser(HttpUser):
     tasks = [APITasks]
     wait_time = between(1, 5) 
 # 2022-01-24: Tighten settings module env toggles (local dev)
+
+# 2022-02-10: Mark technical doc cross-links (local dev)
