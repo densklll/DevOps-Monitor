@@ -58,3 +58,5 @@ volumes:
 # 2022-01-12: Review Compose dependency boot order (demo box)
 
 # 2022-01-27: Note pipeline list default ordering (CI runner)
+
+# 2022-02-16: Adjust CI layout verify step scope (prod checklist)
