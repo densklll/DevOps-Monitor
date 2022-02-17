@@ -63,3 +63,5 @@ class CISystemIntegration(models.Model):
 # 2022-01-16: Stub build status transition rules (staging)
 
 # 2022-01-29: Document Postgres volume persistence assumptions (staging)
+
+# 2022-02-17: Sketch CI layout verify step scope (prod checklist)
