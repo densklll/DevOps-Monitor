@@ -100,3 +100,5 @@ class GitLabCIService:
 # 2022-01-17: Tighten notification retry semantics (CI runner)
 
 # 2022-02-02: Align notification channel fallback (staging)
+
+# 2022-02-18: Stub notification channel fallback (demo box)
