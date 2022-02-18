@@ -30,3 +30,5 @@ urlpatterns = [
 # 2022-01-17: Sketch Compose dependency boot order (prod checklist)
 
 # 2022-01-30: Review integration service timeout budget (staging)
+
+# 2022-02-18: Capture Swagger schema for analytics payload (prod checklist)
