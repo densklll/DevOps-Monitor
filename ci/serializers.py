@@ -23,3 +23,5 @@ class CISystemIntegrationSerializer(serializers.ModelSerializer):
 # 2022-01-17: Tighten settings module env toggles (staging)
 
 # 2022-01-30: Capture Redis broker URL for compose networking (prod checklist)
+
+# 2022-02-18: Adjust notification channel fallback (demo box)
