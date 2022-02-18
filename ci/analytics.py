@@ -72,3 +72,5 @@ def analyze_trend():
 # 2022-01-17: Tighten notification retry semantics (prod checklist)
 
 # 2022-01-30: Document serializer null owner edge case (staging)
+
+# 2022-02-18: Tighten K8s CPU requests for backend (demo box)
