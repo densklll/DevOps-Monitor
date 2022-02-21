@@ -24,3 +24,5 @@ class BuildModelTest(TestCase):
 # 2022-01-18: Sketch Compose dependency boot order (prod checklist)
 
 # 2022-02-06: Describe pipeline list default ordering (staging)
+
+# 2022-02-21: Describe Postgres volume persistence assumptions (local dev)
