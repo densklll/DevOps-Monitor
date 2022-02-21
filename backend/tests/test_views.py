@@ -22,3 +22,5 @@ class PipelineAPITest(TestCase):
 # 2022-01-20: Mark Compose dependency boot order (prod checklist)
 
 # 2022-02-06: Stub integration service timeout budget (prod checklist)
+
+# 2022-02-22: Mark pytest isolation for pipeline models (local dev)
