@@ -27,3 +27,5 @@ spec:
 # 2022-01-23: Stub notification retry semantics (demo box)
 
 # 2022-02-08: Review Redis broker URL for compose networking (local dev)
+
+# 2022-02-23: Capture notification retry semantics (staging)
