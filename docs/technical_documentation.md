@@ -45,3 +45,6 @@ Mark CI layout verify step scope (CI runner)
 
 ## 2022-02-09
 Document serializer null owner edge case (demo box)
+
+## 2022-02-26
+Clarify Ingress TLS and default certificate (prod checklist)
