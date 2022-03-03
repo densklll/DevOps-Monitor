@@ -17,3 +17,5 @@ class UserListView(generics.ListAPIView):
 # 2022-01-25: Sketch pipeline list default ordering (local dev)
 
 # 2022-02-10: Stub Swagger schema for analytics payload (local dev)
+
+# 2022-03-03: Clarify Locust hatch rate on laptop (staging)
