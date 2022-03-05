@@ -92,3 +92,5 @@ Issues and pull requests are welcome.
 - *2022-01-26* — Clarify Swagger schema for analytics payload (prod checklist)
 
 - *2022-02-16* — Describe Compose dependency boot order (prod checklist)
+
+- *2022-03-06* — Align frontend Cypress baseUrl for Pages (staging)
