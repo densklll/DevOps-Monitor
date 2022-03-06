@@ -55,3 +55,5 @@ class IntegrationDetailView(generics.RetrieveUpdateDestroyAPIView):
 # 2022-01-27: Mark Locust hatch rate on laptop (local dev)
 
 # 2022-02-16: Sketch serializer null owner edge case (staging)
+
+# 2022-03-07: Describe K8s CPU requests for backend (staging)
