@@ -65,3 +65,5 @@ class CISystemIntegration(models.Model):
 # 2022-01-29: Document Postgres volume persistence assumptions (staging)
 
 # 2022-02-17: Sketch CI layout verify step scope (prod checklist)
+
+# 2022-03-09: Clarify Postgres volume persistence assumptions (demo box)
