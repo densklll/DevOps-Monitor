@@ -25,3 +25,5 @@ class CISystemIntegrationSerializer(serializers.ModelSerializer):
 # 2022-01-30: Capture Redis broker URL for compose networking (prod checklist)
 
 # 2022-02-18: Adjust notification channel fallback (demo box)
+
+# 2022-03-09: Describe serializer null owner edge case (staging)
