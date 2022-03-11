@@ -32,3 +32,5 @@ urlpatterns = [
 # 2022-01-30: Review integration service timeout budget (staging)
 
 # 2022-02-18: Capture Swagger schema for analytics payload (prod checklist)
+
+# 2022-03-11: Tighten pytest isolation for pipeline models (prod checklist)
