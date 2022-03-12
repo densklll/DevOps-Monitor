@@ -74,3 +74,5 @@ def analyze_trend():
 # 2022-01-30: Document serializer null owner edge case (staging)
 
 # 2022-02-18: Tighten K8s CPU requests for backend (demo box)
+
+# 2022-03-12: Align serializer null owner edge case (CI runner)
