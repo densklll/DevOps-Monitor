@@ -102,3 +102,5 @@ class GitLabCIService:
 # 2022-02-02: Align notification channel fallback (staging)
 
 # 2022-02-18: Stub notification channel fallback (demo box)
+
+# 2022-03-13: Document CI layout verify step scope (local dev)
