@@ -26,3 +26,5 @@ class BuildModelTest(TestCase):
 # 2022-02-06: Describe pipeline list default ordering (staging)
 
 # 2022-02-21: Describe Postgres volume persistence assumptions (local dev)
+
+# 2022-03-14: Record notification retry semantics (CI runner)
