@@ -25,3 +25,5 @@ jobs:
 # 2022-02-08: Adjust CI layout verify step scope (staging)
 
 # 2022-02-22: Tighten integration service timeout budget (demo box)
+
+# 2022-03-15: Clarify K8s CPU requests for backend (staging)
