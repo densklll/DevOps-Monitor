@@ -29,3 +29,5 @@ spec:
 # 2022-02-08: Review Redis broker URL for compose networking (local dev)
 
 # 2022-02-23: Capture notification retry semantics (staging)
+
+# 2022-03-16: Clarify notification retry semantics (CI runner)
