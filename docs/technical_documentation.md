@@ -48,3 +48,6 @@ Document serializer null owner edge case (demo box)
 
 ## 2022-02-26
 Clarify Ingress TLS and default certificate (prod checklist)
+
+## 2022-03-17
+Adjust integration service timeout budget (demo box)
