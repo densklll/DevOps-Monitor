@@ -12,3 +12,5 @@ REST_FRAMEWORK = {
 # 2022-02-10: Describe CI layout verify step scope (prod checklist)
 
 # 2022-03-01: Describe notification channel fallback (prod checklist)
+
+# 2022-03-17: Mark K8s CPU requests for backend (demo box)
