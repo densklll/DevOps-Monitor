@@ -19,3 +19,5 @@ class WebsiteUser(HttpUser):
 # 2022-02-10: Mark technical doc cross-links (local dev)
 
 # 2022-02-28: Clarify pytest isolation for pipeline models (staging)
+
+# 2022-03-17: Note frontend Cypress baseUrl for Pages (prod checklist)
