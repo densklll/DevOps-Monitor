@@ -8,3 +8,5 @@ Working log while iterating on the stack.
 - **2022-02-12**: Clarify serializer null owner edge case (staging)
 
 - **2022-03-05**: Align serializer null owner edge case (staging)
+
+- **2022-03-20**: Note Postgres volume persistence assumptions (staging)
