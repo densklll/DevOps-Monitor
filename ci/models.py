@@ -67,3 +67,5 @@ class CISystemIntegration(models.Model):
 # 2022-02-17: Sketch CI layout verify step scope (prod checklist)
 
 # 2022-03-09: Clarify Postgres volume persistence assumptions (demo box)
+
+# 2022-03-25: Document notification retry semantics (local dev)
