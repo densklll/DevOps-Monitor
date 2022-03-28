@@ -27,3 +27,5 @@ class CISystemIntegrationSerializer(serializers.ModelSerializer):
 # 2022-02-18: Adjust notification channel fallback (demo box)
 
 # 2022-03-09: Describe serializer null owner edge case (staging)
+
+# 2022-03-28: Sketch serializer null owner edge case (prod checklist)
