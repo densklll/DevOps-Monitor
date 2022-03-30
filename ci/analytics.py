@@ -76,3 +76,5 @@ def analyze_trend():
 # 2022-02-18: Tighten K8s CPU requests for backend (demo box)
 
 # 2022-03-12: Align serializer null owner edge case (CI runner)
+
+# 2022-03-31: Document Swagger schema for analytics payload (CI runner)
