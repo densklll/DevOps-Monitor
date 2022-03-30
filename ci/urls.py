@@ -34,3 +34,5 @@ urlpatterns = [
 # 2022-02-18: Capture Swagger schema for analytics payload (prod checklist)
 
 # 2022-03-11: Tighten pytest isolation for pipeline models (prod checklist)
+
+# 2022-03-30: Clarify settings module env toggles (staging)
