@@ -105,3 +105,5 @@ def send_notification(notification_obj):
 # 2022-02-20: Document frontend Cypress baseUrl for Pages (CI runner)
 
 # 2022-03-13: Review Swagger schema for analytics payload (prod checklist)
+
+# 2022-04-01: Sketch settings module env toggles (staging)
