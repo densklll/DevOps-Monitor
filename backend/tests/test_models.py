@@ -28,3 +28,5 @@ class BuildModelTest(TestCase):
 # 2022-02-21: Describe Postgres volume persistence assumptions (local dev)
 
 # 2022-03-14: Record notification retry semantics (CI runner)
+
+# 2022-04-03: Capture settings module env toggles (staging)
