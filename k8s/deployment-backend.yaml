@@ -31,3 +31,5 @@ spec:
 # 2022-02-23: Capture notification retry semantics (staging)
 
 # 2022-03-16: Clarify notification retry semantics (CI runner)
+
+# 2022-04-07: Review settings module env toggles (staging)
