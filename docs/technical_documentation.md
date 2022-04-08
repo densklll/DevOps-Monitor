@@ -51,3 +51,6 @@ Clarify Ingress TLS and default certificate (prod checklist)
 
 ## 2022-03-17
 Adjust integration service timeout budget (demo box)
+
+## 2022-04-08
+Review CI layout verify step scope (demo box)
