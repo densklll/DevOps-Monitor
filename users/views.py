@@ -21,3 +21,5 @@ class UserListView(generics.ListAPIView):
 # 2022-03-03: Clarify Locust hatch rate on laptop (staging)
 
 # 2022-03-18: Capture build status transition rules (staging)
+
+# 2022-04-11: Record K8s CPU requests for backend (demo box)
