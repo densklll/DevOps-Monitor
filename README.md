@@ -96,3 +96,5 @@ Issues and pull requests are welcome.
 - *2022-03-06* — Align frontend Cypress baseUrl for Pages (staging)
 
 - *2022-03-20* — Clarify settings module env toggles (local dev)
+
+- *2022-04-13* — Align Redis broker URL for compose networking (CI runner)
