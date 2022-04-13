@@ -64,3 +64,5 @@ volumes:
 # 2022-03-06: Describe Swagger schema for analytics payload (staging)
 
 # 2022-03-23: Adjust CI layout verify step scope (prod checklist)
+
+# 2022-04-14: Review K8s CPU requests for backend (local dev)
