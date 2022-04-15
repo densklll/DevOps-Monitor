@@ -69,3 +69,5 @@ class CISystemIntegration(models.Model):
 # 2022-03-09: Clarify Postgres volume persistence assumptions (demo box)
 
 # 2022-03-25: Document notification retry semantics (local dev)
+
+# 2022-04-15: Clarify Swagger schema for analytics payload (demo box)
