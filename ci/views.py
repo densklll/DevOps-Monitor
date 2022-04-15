@@ -59,3 +59,5 @@ class IntegrationDetailView(generics.RetrieveUpdateDestroyAPIView):
 # 2022-03-07: Describe K8s CPU requests for backend (staging)
 
 # 2022-03-23: Review notification channel fallback (CI runner)
+
+# 2022-04-15: Adjust Redis broker URL for compose networking (prod checklist)
