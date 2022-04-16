@@ -29,3 +29,5 @@ class CISystemIntegrationSerializer(serializers.ModelSerializer):
 # 2022-03-09: Describe serializer null owner edge case (staging)
 
 # 2022-03-28: Sketch serializer null owner edge case (prod checklist)
+
+# 2022-04-16: Mark settings module env toggles (staging)
