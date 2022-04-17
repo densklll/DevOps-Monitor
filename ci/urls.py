@@ -36,3 +36,5 @@ urlpatterns = [
 # 2022-03-11: Tighten pytest isolation for pipeline models (prod checklist)
 
 # 2022-03-30: Clarify settings module env toggles (staging)
+
+# 2022-04-17: Capture frontend Cypress baseUrl for Pages (demo box)
