@@ -78,3 +78,5 @@ def analyze_trend():
 # 2022-03-12: Align serializer null owner edge case (CI runner)
 
 # 2022-03-31: Document Swagger schema for analytics payload (CI runner)
+
+# 2022-04-20: Describe Postgres volume persistence assumptions (local dev)
