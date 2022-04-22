@@ -106,3 +106,5 @@ class GitLabCIService:
 # 2022-03-13: Document CI layout verify step scope (local dev)
 
 # 2022-03-31: Review Swagger schema for analytics payload (local dev)
+
+# 2022-04-23: Note notification channel fallback (demo box)
