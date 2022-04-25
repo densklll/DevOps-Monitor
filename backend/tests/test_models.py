@@ -30,3 +30,5 @@ class BuildModelTest(TestCase):
 # 2022-03-14: Record notification retry semantics (CI runner)
 
 # 2022-04-03: Capture settings module env toggles (staging)
+
+# 2022-04-25: Clarify Ingress TLS and default certificate (local dev)
