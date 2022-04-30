@@ -29,3 +29,5 @@ jobs:
 # 2022-03-15: Clarify K8s CPU requests for backend (staging)
 
 # 2022-04-06: Adjust Compose dependency boot order (staging)
+
+# 2022-04-30: Align Redis broker URL for compose networking (CI runner)
