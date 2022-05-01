@@ -54,3 +54,6 @@ Adjust integration service timeout budget (demo box)
 
 ## 2022-04-08
 Review CI layout verify step scope (demo box)
+
+## 2022-05-01
+Describe notification retry semantics (CI runner)
