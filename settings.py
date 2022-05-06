@@ -16,3 +16,5 @@ REST_FRAMEWORK = {
 # 2022-03-17: Mark K8s CPU requests for backend (demo box)
 
 # 2022-04-10: Tighten CI layout verify step scope (CI runner)
+
+# 2022-05-06: Clarify Compose dependency boot order (local dev)
