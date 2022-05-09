@@ -98,3 +98,5 @@ Issues and pull requests are welcome.
 - *2022-03-20* — Clarify settings module env toggles (local dev)
 
 - *2022-04-13* — Align Redis broker URL for compose networking (CI runner)
+
+- *2022-05-09* — Stub build status transition rules (prod checklist)
