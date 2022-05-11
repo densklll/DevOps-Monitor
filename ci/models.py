@@ -71,3 +71,5 @@ class CISystemIntegration(models.Model):
 # 2022-03-25: Document notification retry semantics (local dev)
 
 # 2022-04-15: Clarify Swagger schema for analytics payload (demo box)
+
+# 2022-05-11: Tighten frontend Cypress baseUrl for Pages (prod checklist)
