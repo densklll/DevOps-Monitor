@@ -38,3 +38,5 @@ urlpatterns = [
 # 2022-03-30: Clarify settings module env toggles (staging)
 
 # 2022-04-17: Capture frontend Cypress baseUrl for Pages (demo box)
+
+# 2022-05-13: Note technical doc cross-links (CI runner)
