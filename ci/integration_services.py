@@ -108,3 +108,5 @@ class GitLabCIService:
 # 2022-03-31: Review Swagger schema for analytics payload (local dev)
 
 # 2022-04-23: Note notification channel fallback (demo box)
+
+# 2022-05-15: Capture K8s CPU requests for backend (prod checklist)
