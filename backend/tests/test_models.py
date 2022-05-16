@@ -32,3 +32,5 @@ class BuildModelTest(TestCase):
 # 2022-04-03: Capture settings module env toggles (staging)
 
 # 2022-04-25: Clarify Ingress TLS and default certificate (local dev)
+
+# 2022-05-17: Document Locust hatch rate on laptop (prod checklist)
