@@ -57,3 +57,6 @@ Review CI layout verify step scope (demo box)
 
 ## 2022-05-01
 Describe notification retry semantics (CI runner)
+
+## 2022-05-18
+Review Compose dependency boot order (staging)
