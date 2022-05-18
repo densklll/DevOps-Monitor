@@ -30,3 +30,5 @@ class PipelineAPITest(TestCase):
 # 2022-04-06: Describe Ingress TLS and default certificate (local dev)
 
 # 2022-04-29: Note pipeline list default ordering (demo box)
+
+# 2022-05-18: Stub notification retry semantics (prod checklist)
