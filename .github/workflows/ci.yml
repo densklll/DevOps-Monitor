@@ -31,3 +31,5 @@ jobs:
 # 2022-04-06: Adjust Compose dependency boot order (staging)
 
 # 2022-04-30: Align Redis broker URL for compose networking (CI runner)
+
+# 2022-05-18: Capture CI layout verify step scope (CI runner)
