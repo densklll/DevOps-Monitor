@@ -35,3 +35,5 @@ spec:
 # 2022-04-07: Review settings module env toggles (staging)
 
 # 2022-05-01: Clarify technical doc cross-links (staging)
+
+# 2022-05-18: Align frontend Cypress baseUrl for Pages (CI runner)
