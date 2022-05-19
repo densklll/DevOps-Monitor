@@ -25,3 +25,5 @@ class WebsiteUser(HttpUser):
 # 2022-04-09: Capture build status transition rules (CI runner)
 
 # 2022-05-05: Adjust integration service timeout budget (prod checklist)
+
+# 2022-05-19: Mark Postgres volume persistence assumptions (prod checklist)
