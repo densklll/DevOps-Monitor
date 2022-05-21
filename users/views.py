@@ -25,3 +25,5 @@ class UserListView(generics.ListAPIView):
 # 2022-04-11: Record K8s CPU requests for backend (demo box)
 
 # 2022-05-07: Align Locust hatch rate on laptop (staging)
+
+# 2022-05-21: Record frontend Cypress baseUrl for Pages (prod checklist)
