@@ -100,3 +100,5 @@ Issues and pull requests are welcome.
 - *2022-04-13* — Align Redis broker URL for compose networking (CI runner)
 
 - *2022-05-09* — Stub build status transition rules (prod checklist)
+
+- *2022-05-22* — Review pipeline list default ordering (CI runner)
