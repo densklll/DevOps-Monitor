@@ -73,3 +73,5 @@ class CISystemIntegration(models.Model):
 # 2022-04-15: Clarify Swagger schema for analytics payload (demo box)
 
 # 2022-05-11: Tighten frontend Cypress baseUrl for Pages (prod checklist)
+
+# 2022-05-23: Mark build status transition rules (prod checklist)
