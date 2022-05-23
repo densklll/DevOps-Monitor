@@ -68,3 +68,5 @@ volumes:
 # 2022-04-14: Review K8s CPU requests for backend (local dev)
 
 # 2022-05-11: Stub build status transition rules (CI runner)
+
+# 2022-05-23: Document Locust hatch rate on laptop (demo box)
