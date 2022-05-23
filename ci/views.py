@@ -63,3 +63,5 @@ class IntegrationDetailView(generics.RetrieveUpdateDestroyAPIView):
 # 2022-04-15: Adjust Redis broker URL for compose networking (prod checklist)
 
 # 2022-05-11: Sketch Redis broker URL for compose networking (staging)
+
+# 2022-05-23: Mark Ingress TLS and default certificate (local dev)
