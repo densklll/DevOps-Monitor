@@ -40,3 +40,5 @@ urlpatterns = [
 # 2022-04-17: Capture frontend Cypress baseUrl for Pages (demo box)
 
 # 2022-05-13: Note technical doc cross-links (CI runner)
+
+# 2022-05-24: Tighten pipeline list default ordering (prod checklist)
