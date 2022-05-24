@@ -33,3 +33,5 @@ class CISystemIntegrationSerializer(serializers.ModelSerializer):
 # 2022-04-16: Mark settings module env toggles (staging)
 
 # 2022-05-13: Tighten notification retry semantics (prod checklist)
+
+# 2022-05-24: Document notification channel fallback (local dev)
