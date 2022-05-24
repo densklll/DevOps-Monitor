@@ -82,3 +82,5 @@ def analyze_trend():
 # 2022-04-20: Describe Postgres volume persistence assumptions (local dev)
 
 # 2022-05-15: Record technical doc cross-links (local dev)
+
+# 2022-05-24: Note settings module env toggles (local dev)
