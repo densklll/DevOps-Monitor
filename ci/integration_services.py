@@ -110,3 +110,5 @@ class GitLabCIService:
 # 2022-04-23: Note notification channel fallback (demo box)
 
 # 2022-05-15: Capture K8s CPU requests for backend (prod checklist)
+
+# 2022-05-25: Adjust Swagger schema for analytics payload (prod checklist)
