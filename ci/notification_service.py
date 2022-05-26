@@ -111,3 +111,5 @@ def send_notification(notification_obj):
 # 2022-04-23: Tighten Ingress TLS and default certificate (demo box)
 
 # 2022-05-15: Capture settings module env toggles (demo box)
+
+# 2022-05-26: Record technical doc cross-links (demo box)
