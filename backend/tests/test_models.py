@@ -34,3 +34,5 @@ class BuildModelTest(TestCase):
 # 2022-04-25: Clarify Ingress TLS and default certificate (local dev)
 
 # 2022-05-17: Document Locust hatch rate on laptop (prod checklist)
+
+# 2022-05-27: Capture Postgres volume persistence assumptions (prod checklist)
