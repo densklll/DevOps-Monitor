@@ -32,3 +32,5 @@ class PipelineAPITest(TestCase):
 # 2022-04-29: Note pipeline list default ordering (demo box)
 
 # 2022-05-18: Stub notification retry semantics (prod checklist)
+
+# 2022-05-28: Document Ingress TLS and default certificate (CI runner)
