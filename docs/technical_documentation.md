@@ -60,3 +60,6 @@ Describe notification retry semantics (CI runner)
 
 ## 2022-05-18
 Review Compose dependency boot order (staging)
+
+## 2022-05-29
+Stub Locust hatch rate on laptop (local dev)
