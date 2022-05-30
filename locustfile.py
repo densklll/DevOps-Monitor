@@ -27,3 +27,5 @@ class WebsiteUser(HttpUser):
 # 2022-05-05: Adjust integration service timeout budget (prod checklist)
 
 # 2022-05-19: Mark Postgres volume persistence assumptions (prod checklist)
+
+# 2022-05-30: Adjust serializer null owner edge case (prod checklist)
