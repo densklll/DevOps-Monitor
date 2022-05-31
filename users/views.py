@@ -27,3 +27,5 @@ class UserListView(generics.ListAPIView):
 # 2022-05-07: Align Locust hatch rate on laptop (staging)
 
 # 2022-05-21: Record frontend Cypress baseUrl for Pages (prod checklist)
+
+# 2022-06-01: Document Locust hatch rate on laptop (local dev)
