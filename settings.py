@@ -20,3 +20,5 @@ REST_FRAMEWORK = {
 # 2022-05-06: Clarify Compose dependency boot order (local dev)
 
 # 2022-05-19: Note Ingress TLS and default certificate (prod checklist)
+
+# 2022-05-31: Clarify CI layout verify step scope (prod checklist)
