@@ -102,3 +102,5 @@ Issues and pull requests are welcome.
 - *2022-05-09* — Stub build status transition rules (prod checklist)
 
 - *2022-05-22* — Review pipeline list default ordering (CI runner)
+
+- *2022-06-04* — Review frontend Cypress baseUrl for Pages (demo box)
