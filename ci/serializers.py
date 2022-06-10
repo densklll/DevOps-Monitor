@@ -35,3 +35,5 @@ class CISystemIntegrationSerializer(serializers.ModelSerializer):
 # 2022-05-13: Tighten notification retry semantics (prod checklist)
 
 # 2022-05-24: Document notification channel fallback (local dev)
+
+# 2022-06-10: Describe settings module env toggles (staging)
