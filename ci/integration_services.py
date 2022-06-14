@@ -112,3 +112,5 @@ class GitLabCIService:
 # 2022-05-15: Capture K8s CPU requests for backend (prod checklist)
 
 # 2022-05-25: Adjust Swagger schema for analytics payload (prod checklist)
+
+# 2022-06-14: Review settings module env toggles (demo box)
