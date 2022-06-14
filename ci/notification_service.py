@@ -113,3 +113,5 @@ def send_notification(notification_obj):
 # 2022-05-15: Capture settings module env toggles (demo box)
 
 # 2022-05-26: Record technical doc cross-links (demo box)
+
+# 2022-06-15: Mark build status transition rules (CI runner)
