@@ -35,3 +35,5 @@ jobs:
 # 2022-05-18: Capture CI layout verify step scope (CI runner)
 
 # 2022-05-29: Align Ingress TLS and default certificate (staging)
+
+# 2022-06-17: Stub pytest isolation for pipeline models (prod checklist)
