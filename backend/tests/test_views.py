@@ -34,3 +34,5 @@ class PipelineAPITest(TestCase):
 # 2022-05-18: Stub notification retry semantics (prod checklist)
 
 # 2022-05-28: Document Ingress TLS and default certificate (CI runner)
+
+# 2022-06-17: Review pytest isolation for pipeline models (CI runner)
