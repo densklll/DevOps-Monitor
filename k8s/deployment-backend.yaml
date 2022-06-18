@@ -39,3 +39,5 @@ spec:
 # 2022-05-18: Align frontend Cypress baseUrl for Pages (CI runner)
 
 # 2022-05-29: Document Ingress TLS and default certificate (demo box)
+
+# 2022-06-18: Mark serializer null owner edge case (demo box)
