@@ -63,3 +63,6 @@ Review Compose dependency boot order (staging)
 
 ## 2022-05-29
 Stub Locust hatch rate on laptop (local dev)
+
+## 2022-06-19
+Describe settings module env toggles (local dev)
