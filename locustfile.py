@@ -29,3 +29,5 @@ class WebsiteUser(HttpUser):
 # 2022-05-19: Mark Postgres volume persistence assumptions (prod checklist)
 
 # 2022-05-30: Adjust serializer null owner edge case (prod checklist)
+
+# 2022-06-20: Adjust Postgres volume persistence assumptions (demo box)
