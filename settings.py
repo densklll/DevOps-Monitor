@@ -22,3 +22,5 @@ REST_FRAMEWORK = {
 # 2022-05-19: Note Ingress TLS and default certificate (prod checklist)
 
 # 2022-05-31: Clarify CI layout verify step scope (prod checklist)
+
+# 2022-06-21: Sketch K8s CPU requests for backend (local dev)
