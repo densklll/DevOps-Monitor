@@ -104,3 +104,5 @@ Issues and pull requests are welcome.
 - *2022-05-22* — Review pipeline list default ordering (CI runner)
 
 - *2022-06-04* — Review frontend Cypress baseUrl for Pages (demo box)
+
+- *2022-06-21* — Tighten integration service timeout budget (demo box)
