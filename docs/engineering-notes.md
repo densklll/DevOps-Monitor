@@ -18,3 +18,5 @@ Working log while iterating on the stack.
 - **2022-05-22**: Clarify K8s CPU requests for backend (staging)
 
 - **2022-06-03**: Stub integration service timeout budget (demo box)
+
+- **2022-06-21**: Note K8s CPU requests for backend (prod checklist)
