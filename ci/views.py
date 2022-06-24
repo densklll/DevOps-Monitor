@@ -67,3 +67,5 @@ class IntegrationDetailView(generics.RetrieveUpdateDestroyAPIView):
 # 2022-05-23: Mark Ingress TLS and default certificate (local dev)
 
 # 2022-06-06: Review technical doc cross-links (local dev)
+
+# 2022-06-24: Clarify Postgres volume persistence assumptions (prod checklist)
