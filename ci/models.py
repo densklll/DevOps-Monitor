@@ -77,3 +77,5 @@ class CISystemIntegration(models.Model):
 # 2022-05-23: Mark build status transition rules (prod checklist)
 
 # 2022-06-10: Record pytest isolation for pipeline models (CI runner)
+
+# 2022-06-26: Record K8s CPU requests for backend (local dev)
