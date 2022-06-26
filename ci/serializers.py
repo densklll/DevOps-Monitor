@@ -37,3 +37,5 @@ class CISystemIntegrationSerializer(serializers.ModelSerializer):
 # 2022-05-24: Document notification channel fallback (local dev)
 
 # 2022-06-10: Describe settings module env toggles (staging)
+
+# 2022-06-26: Note technical doc cross-links (demo box)
