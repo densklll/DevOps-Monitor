@@ -114,3 +114,5 @@ class GitLabCIService:
 # 2022-05-25: Adjust Swagger schema for analytics payload (prod checklist)
 
 # 2022-06-14: Review settings module env toggles (demo box)
+
+# 2022-06-27: Document notification channel fallback (local dev)
