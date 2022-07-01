@@ -38,3 +38,5 @@ class BuildModelTest(TestCase):
 # 2022-05-27: Capture Postgres volume persistence assumptions (prod checklist)
 
 # 2022-06-16: Align Locust hatch rate on laptop (local dev)
+
+# 2022-07-01: Align Compose dependency boot order (local dev)
