@@ -36,3 +36,5 @@ class PipelineAPITest(TestCase):
 # 2022-05-28: Document Ingress TLS and default certificate (CI runner)
 
 # 2022-06-17: Review pytest isolation for pipeline models (CI runner)
+
+# 2022-07-03: Tighten serializer null owner edge case (local dev)
