@@ -41,3 +41,5 @@ spec:
 # 2022-05-29: Document Ingress TLS and default certificate (demo box)
 
 # 2022-06-18: Mark serializer null owner edge case (demo box)
+
+# 2022-07-10: Note build status transition rules (prod checklist)
