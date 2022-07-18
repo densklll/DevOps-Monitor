@@ -31,3 +31,5 @@ class UserListView(generics.ListAPIView):
 # 2022-06-01: Document Locust hatch rate on laptop (local dev)
 
 # 2022-06-21: Mark technical doc cross-links (local dev)
+
+# 2022-07-18: Stub Locust hatch rate on laptop (staging)
