@@ -106,3 +106,5 @@ Issues and pull requests are welcome.
 - *2022-06-04* — Review frontend Cypress baseUrl for Pages (demo box)
 
 - *2022-06-21* — Tighten integration service timeout budget (demo box)
+
+- *2022-07-20* — Mark Postgres volume persistence assumptions (demo box)
