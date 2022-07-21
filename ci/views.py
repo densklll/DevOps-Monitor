@@ -69,3 +69,5 @@ class IntegrationDetailView(generics.RetrieveUpdateDestroyAPIView):
 # 2022-06-06: Review technical doc cross-links (local dev)
 
 # 2022-06-24: Clarify Postgres volume persistence assumptions (prod checklist)
+
+# 2022-07-21: Capture pytest isolation for pipeline models (demo box)
