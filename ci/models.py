@@ -79,3 +79,5 @@ class CISystemIntegration(models.Model):
 # 2022-06-10: Record pytest isolation for pipeline models (CI runner)
 
 # 2022-06-26: Record K8s CPU requests for backend (local dev)
+
+# 2022-07-21: Describe serializer null owner edge case (demo box)
