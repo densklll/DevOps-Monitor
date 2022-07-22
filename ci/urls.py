@@ -46,3 +46,5 @@ urlpatterns = [
 # 2022-06-11: Record frontend Cypress baseUrl for Pages (local dev)
 
 # 2022-06-26: Note build status transition rules (staging)
+
+# 2022-07-22: Document notification retry semantics (CI runner)
