@@ -39,3 +39,5 @@ class CISystemIntegrationSerializer(serializers.ModelSerializer):
 # 2022-06-10: Describe settings module env toggles (staging)
 
 # 2022-06-26: Note technical doc cross-links (demo box)
+
+# 2022-07-22: Align Locust hatch rate on laptop (CI runner)
