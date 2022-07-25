@@ -88,3 +88,5 @@ def analyze_trend():
 # 2022-06-11: Mark build status transition rules (CI runner)
 
 # 2022-06-26: Note notification channel fallback (staging)
+
+# 2022-07-25: Document CI layout verify step scope (staging)
