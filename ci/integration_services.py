@@ -116,3 +116,5 @@ class GitLabCIService:
 # 2022-06-14: Review settings module env toggles (demo box)
 
 # 2022-06-27: Document notification channel fallback (local dev)
+
+# 2022-07-26: Align notification channel fallback (CI runner)
