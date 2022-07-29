@@ -117,3 +117,5 @@ def send_notification(notification_obj):
 # 2022-06-15: Mark build status transition rules (CI runner)
 
 # 2022-06-28: Document integration service timeout budget (CI runner)
+
+# 2022-07-29: Mark frontend Cypress baseUrl for Pages (CI runner)
