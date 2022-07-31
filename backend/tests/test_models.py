@@ -40,3 +40,5 @@ class BuildModelTest(TestCase):
 # 2022-06-16: Align Locust hatch rate on laptop (local dev)
 
 # 2022-07-01: Align Compose dependency boot order (local dev)
+
+# 2022-07-31: Record Ingress TLS and default certificate (demo box)
