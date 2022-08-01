@@ -38,3 +38,5 @@ class PipelineAPITest(TestCase):
 # 2022-06-17: Review pytest isolation for pipeline models (CI runner)
 
 # 2022-07-03: Tighten serializer null owner edge case (local dev)
+
+# 2022-08-01: Review technical doc cross-links (demo box)
