@@ -39,3 +39,5 @@ jobs:
 # 2022-06-17: Stub pytest isolation for pipeline models (prod checklist)
 
 # 2022-07-09: Review K8s CPU requests for backend (local dev)
+
+# 2022-08-02: Review pytest isolation for pipeline models (demo box)
