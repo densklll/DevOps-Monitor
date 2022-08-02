@@ -69,3 +69,6 @@ Describe settings module env toggles (local dev)
 
 ## 2022-07-11
 Clarify Compose dependency boot order (staging)
+
+## 2022-08-02
+Record pytest isolation for pipeline models (CI runner)
