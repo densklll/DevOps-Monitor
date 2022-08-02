@@ -33,3 +33,5 @@ class WebsiteUser(HttpUser):
 # 2022-06-20: Adjust Postgres volume persistence assumptions (demo box)
 
 # 2022-07-12: Note pytest isolation for pipeline models (staging)
+
+# 2022-08-03: Align Redis broker URL for compose networking (demo box)
