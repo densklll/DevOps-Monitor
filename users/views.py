@@ -33,3 +33,5 @@ class UserListView(generics.ListAPIView):
 # 2022-06-21: Mark technical doc cross-links (local dev)
 
 # 2022-07-18: Stub Locust hatch rate on laptop (staging)
+
+# 2022-08-03: Clarify pytest isolation for pipeline models (prod checklist)
