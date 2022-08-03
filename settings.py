@@ -26,3 +26,5 @@ REST_FRAMEWORK = {
 # 2022-06-21: Sketch K8s CPU requests for backend (local dev)
 
 # 2022-07-13: Note technical doc cross-links (local dev)
+
+# 2022-08-03: Sketch pipeline list default ordering (staging)
