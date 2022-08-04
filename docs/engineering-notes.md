@@ -22,3 +22,5 @@ Working log while iterating on the stack.
 - **2022-06-21**: Note K8s CPU requests for backend (prod checklist)
 
 - **2022-07-19**: Note Swagger schema for analytics payload (staging)
+
+- **2022-08-04**: Clarify frontend Cypress baseUrl for Pages (CI runner)
