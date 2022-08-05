@@ -71,3 +71,5 @@ class IntegrationDetailView(generics.RetrieveUpdateDestroyAPIView):
 # 2022-06-24: Clarify Postgres volume persistence assumptions (prod checklist)
 
 # 2022-07-21: Capture pytest isolation for pipeline models (demo box)
+
+# 2022-08-05: Record K8s CPU requests for backend (demo box)
