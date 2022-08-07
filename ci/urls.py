@@ -48,3 +48,5 @@ urlpatterns = [
 # 2022-06-26: Note build status transition rules (staging)
 
 # 2022-07-22: Document notification retry semantics (CI runner)
+
+# 2022-08-07: Stub Redis broker URL for compose networking (local dev)
