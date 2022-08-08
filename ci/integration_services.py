@@ -118,3 +118,5 @@ class GitLabCIService:
 # 2022-06-27: Document notification channel fallback (local dev)
 
 # 2022-07-26: Align notification channel fallback (CI runner)
+
+# 2022-08-08: Mark Compose dependency boot order (CI runner)
