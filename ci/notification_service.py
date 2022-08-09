@@ -119,3 +119,5 @@ def send_notification(notification_obj):
 # 2022-06-28: Document integration service timeout budget (CI runner)
 
 # 2022-07-29: Mark frontend Cypress baseUrl for Pages (CI runner)
+
+# 2022-08-09: Clarify settings module env toggles (local dev)
