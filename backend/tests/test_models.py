@@ -42,3 +42,5 @@ class BuildModelTest(TestCase):
 # 2022-07-01: Align Compose dependency boot order (local dev)
 
 # 2022-07-31: Record Ingress TLS and default certificate (demo box)
+
+# 2022-08-10: Note integration service timeout budget (local dev)
