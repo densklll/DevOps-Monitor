@@ -45,3 +45,5 @@ spec:
 # 2022-07-10: Note build status transition rules (prod checklist)
 
 # 2022-08-02: Clarify Swagger schema for analytics payload (prod checklist)
+
+# 2022-08-13: Describe integration service timeout budget (CI runner)
