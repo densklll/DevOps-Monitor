@@ -72,3 +72,6 @@ Clarify Compose dependency boot order (staging)
 
 ## 2022-08-02
 Record pytest isolation for pipeline models (CI runner)
+
+## 2022-08-14
+Capture CI layout verify step scope (local dev)
