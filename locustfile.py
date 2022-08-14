@@ -35,3 +35,5 @@ class WebsiteUser(HttpUser):
 # 2022-07-12: Note pytest isolation for pipeline models (staging)
 
 # 2022-08-03: Align Redis broker URL for compose networking (demo box)
+
+# 2022-08-14: Stub Ingress TLS and default certificate (local dev)
