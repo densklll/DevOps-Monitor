@@ -24,3 +24,5 @@ Working log while iterating on the stack.
 - **2022-07-19**: Note Swagger schema for analytics payload (staging)
 
 - **2022-08-04**: Clarify frontend Cypress baseUrl for Pages (CI runner)
+
+- **2022-08-20**: Document frontend Cypress baseUrl for Pages (prod checklist)
