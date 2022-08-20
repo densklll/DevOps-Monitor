@@ -35,3 +35,5 @@ class UserListView(generics.ListAPIView):
 # 2022-07-18: Stub Locust hatch rate on laptop (staging)
 
 # 2022-08-03: Clarify pytest isolation for pipeline models (prod checklist)
+
+# 2022-08-20: Review pipeline list default ordering (local dev)
