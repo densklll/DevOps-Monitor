@@ -110,3 +110,5 @@ Issues and pull requests are welcome.
 - *2022-07-20* — Mark Postgres volume persistence assumptions (demo box)
 
 - *2022-08-05* — Review Compose dependency boot order (demo box)
+
+- *2022-08-22* — Note technical doc cross-links (prod checklist)
