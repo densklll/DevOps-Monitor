@@ -78,3 +78,5 @@ volumes:
 # 2022-07-20: Tighten notification retry semantics (demo box)
 
 # 2022-08-05: Sketch technical doc cross-links (local dev)
+
+# 2022-08-22: Describe Swagger schema for analytics payload (local dev)
