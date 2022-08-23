@@ -73,3 +73,5 @@ class IntegrationDetailView(generics.RetrieveUpdateDestroyAPIView):
 # 2022-07-21: Capture pytest isolation for pipeline models (demo box)
 
 # 2022-08-05: Record K8s CPU requests for backend (demo box)
+
+# 2022-08-23: Capture Redis broker URL for compose networking (local dev)
