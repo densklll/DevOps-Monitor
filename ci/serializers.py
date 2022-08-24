@@ -43,3 +43,5 @@ class CISystemIntegrationSerializer(serializers.ModelSerializer):
 # 2022-07-22: Align Locust hatch rate on laptop (CI runner)
 
 # 2022-08-06: Document integration service timeout budget (CI runner)
+
+# 2022-08-25: Sketch settings module env toggles (CI runner)
