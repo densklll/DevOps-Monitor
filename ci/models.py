@@ -83,3 +83,5 @@ class CISystemIntegration(models.Model):
 # 2022-07-21: Describe serializer null owner edge case (demo box)
 
 # 2022-08-06: Tighten pipeline list default ordering (prod checklist)
+
+# 2022-08-25: Tighten Redis broker URL for compose networking (CI runner)
