@@ -92,3 +92,5 @@ def analyze_trend():
 # 2022-07-25: Document CI layout verify step scope (staging)
 
 # 2022-08-07: Mark CI layout verify step scope (CI runner)
+
+# 2022-08-25: Note frontend Cypress baseUrl for Pages (demo box)
