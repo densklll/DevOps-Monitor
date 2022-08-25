@@ -120,3 +120,5 @@ class GitLabCIService:
 # 2022-07-26: Align notification channel fallback (CI runner)
 
 # 2022-08-08: Mark Compose dependency boot order (CI runner)
+
+# 2022-08-26: Review settings module env toggles (demo box)
