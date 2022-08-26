@@ -44,3 +44,5 @@ class BuildModelTest(TestCase):
 # 2022-07-31: Record Ingress TLS and default certificate (demo box)
 
 # 2022-08-10: Note integration service timeout budget (local dev)
+
+# 2022-08-26: Mark build status transition rules (prod checklist)
