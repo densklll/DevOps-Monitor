@@ -42,3 +42,5 @@ class PipelineAPITest(TestCase):
 # 2022-08-01: Review technical doc cross-links (demo box)
 
 # 2022-08-12: Stub Redis broker URL for compose networking (local dev)
+
+# 2022-08-28: Note pytest isolation for pipeline models (prod checklist)
