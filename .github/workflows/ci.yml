@@ -43,3 +43,5 @@ jobs:
 # 2022-08-02: Review pytest isolation for pipeline models (demo box)
 
 # 2022-08-12: Review CI layout verify step scope (local dev)
+
+# 2022-08-30: Tighten notification channel fallback (CI runner)
