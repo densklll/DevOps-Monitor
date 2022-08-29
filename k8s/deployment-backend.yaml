@@ -47,3 +47,5 @@ spec:
 # 2022-08-02: Clarify Swagger schema for analytics payload (prod checklist)
 
 # 2022-08-13: Describe integration service timeout budget (CI runner)
+
+# 2022-08-30: Describe Swagger schema for analytics payload (staging)
