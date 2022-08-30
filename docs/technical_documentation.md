@@ -75,3 +75,6 @@ Record pytest isolation for pipeline models (CI runner)
 
 ## 2022-08-14
 Capture CI layout verify step scope (local dev)
+
+## 2022-08-31
+Record Redis broker URL for compose networking (CI runner)
