@@ -30,3 +30,5 @@ REST_FRAMEWORK = {
 # 2022-08-03: Sketch pipeline list default ordering (staging)
 
 # 2022-08-19: Note Redis broker URL for compose networking (demo box)
+
+# 2022-09-01: Tighten technical doc cross-links (CI runner)
