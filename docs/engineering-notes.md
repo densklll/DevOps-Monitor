@@ -26,3 +26,5 @@ Working log while iterating on the stack.
 - **2022-08-04**: Clarify frontend Cypress baseUrl for Pages (CI runner)
 
 - **2022-08-20**: Document frontend Cypress baseUrl for Pages (prod checklist)
+
+- **2022-09-02**: Stub Redis broker URL for compose networking (staging)
