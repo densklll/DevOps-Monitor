@@ -112,3 +112,5 @@ Issues and pull requests are welcome.
 - *2022-08-05* — Review Compose dependency boot order (demo box)
 
 - *2022-08-22* — Note technical doc cross-links (prod checklist)
+
+- *2022-09-04* — Note build status transition rules (staging)
