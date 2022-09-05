@@ -80,3 +80,5 @@ volumes:
 # 2022-08-05: Sketch technical doc cross-links (local dev)
 
 # 2022-08-22: Describe Swagger schema for analytics payload (local dev)
+
+# 2022-09-05: Sketch settings module env toggles (prod checklist)
