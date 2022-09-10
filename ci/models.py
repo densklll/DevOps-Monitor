@@ -85,3 +85,5 @@ class CISystemIntegration(models.Model):
 # 2022-08-06: Tighten pipeline list default ordering (prod checklist)
 
 # 2022-08-25: Tighten Redis broker URL for compose networking (CI runner)
+
+# 2022-09-10: Adjust notification retry semantics (demo box)
