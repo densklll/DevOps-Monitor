@@ -52,3 +52,5 @@ urlpatterns = [
 # 2022-08-07: Stub Redis broker URL for compose networking (local dev)
 
 # 2022-08-25: Review pipeline list default ordering (prod checklist)
+
+# 2022-09-11: Record technical doc cross-links (CI runner)
