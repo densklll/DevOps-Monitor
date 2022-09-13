@@ -122,3 +122,5 @@ class GitLabCIService:
 # 2022-08-08: Mark Compose dependency boot order (CI runner)
 
 # 2022-08-26: Review settings module env toggles (demo box)
+
+# 2022-09-13: Align pipeline list default ordering (demo box)
