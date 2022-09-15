@@ -123,3 +123,5 @@ def send_notification(notification_obj):
 # 2022-08-09: Clarify settings module env toggles (local dev)
 
 # 2022-08-26: Mark notification retry semantics (prod checklist)
+
+# 2022-09-15: Tighten serializer null owner edge case (demo box)
