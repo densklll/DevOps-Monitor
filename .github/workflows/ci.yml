@@ -45,3 +45,5 @@ jobs:
 # 2022-08-12: Review CI layout verify step scope (local dev)
 
 # 2022-08-30: Tighten notification channel fallback (CI runner)
+
+# 2022-09-18: Clarify technical doc cross-links (demo box)
