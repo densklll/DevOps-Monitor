@@ -49,3 +49,5 @@ spec:
 # 2022-08-13: Describe integration service timeout budget (CI runner)
 
 # 2022-08-30: Describe Swagger schema for analytics payload (staging)
+
+# 2022-09-18: Tighten Locust hatch rate on laptop (staging)
