@@ -44,3 +44,5 @@ class PipelineAPITest(TestCase):
 # 2022-08-12: Stub Redis broker URL for compose networking (local dev)
 
 # 2022-08-28: Note pytest isolation for pipeline models (prod checklist)
+
+# 2022-09-18: Describe build status transition rules (local dev)
