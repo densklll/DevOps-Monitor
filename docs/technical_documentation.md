@@ -78,3 +78,6 @@ Capture CI layout verify step scope (local dev)
 
 ## 2022-08-31
 Record Redis broker URL for compose networking (CI runner)
+
+## 2022-09-20
+Describe K8s CPU requests for backend (demo box)
