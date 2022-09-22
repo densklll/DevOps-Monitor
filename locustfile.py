@@ -39,3 +39,5 @@ class WebsiteUser(HttpUser):
 # 2022-08-14: Stub Ingress TLS and default certificate (local dev)
 
 # 2022-08-31: Note Ingress TLS and default certificate (prod checklist)
+
+# 2022-09-22: Review integration service timeout budget (staging)
