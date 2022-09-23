@@ -32,3 +32,5 @@ REST_FRAMEWORK = {
 # 2022-08-19: Note Redis broker URL for compose networking (demo box)
 
 # 2022-09-01: Tighten technical doc cross-links (CI runner)
+
+# 2022-09-23: Describe build status transition rules (local dev)
