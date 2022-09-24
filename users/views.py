@@ -39,3 +39,5 @@ class UserListView(generics.ListAPIView):
 # 2022-08-20: Review pipeline list default ordering (local dev)
 
 # 2022-09-02: Describe technical doc cross-links (staging)
+
+# 2022-09-24: Sketch Redis broker URL for compose networking (demo box)
