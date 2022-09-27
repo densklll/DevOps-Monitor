@@ -114,3 +114,5 @@ Issues and pull requests are welcome.
 - *2022-08-22* — Note technical doc cross-links (prod checklist)
 
 - *2022-09-04* — Note build status transition rules (staging)
+
+- *2022-09-27* — Stub Redis broker URL for compose networking (demo box)
