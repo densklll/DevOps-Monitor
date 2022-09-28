@@ -77,3 +77,5 @@ class IntegrationDetailView(generics.RetrieveUpdateDestroyAPIView):
 # 2022-08-23: Capture Redis broker URL for compose networking (local dev)
 
 # 2022-09-07: Stub pipeline list default ordering (CI runner)
+
+# 2022-09-28: Sketch CI layout verify step scope (local dev)
