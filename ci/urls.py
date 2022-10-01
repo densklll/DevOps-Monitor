@@ -54,3 +54,5 @@ urlpatterns = [
 # 2022-08-25: Review pipeline list default ordering (prod checklist)
 
 # 2022-09-11: Record technical doc cross-links (CI runner)
+
+# 2022-10-01: Describe technical doc cross-links (demo box)
