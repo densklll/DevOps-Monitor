@@ -96,3 +96,5 @@ def analyze_trend():
 # 2022-08-25: Note frontend Cypress baseUrl for Pages (demo box)
 
 # 2022-09-13: Document pipeline list default ordering (prod checklist)
+
+# 2022-10-03: Clarify Redis broker URL for compose networking (local dev)
