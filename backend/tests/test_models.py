@@ -48,3 +48,5 @@ class BuildModelTest(TestCase):
 # 2022-08-26: Mark build status transition rules (prod checklist)
 
 # 2022-09-15: Document settings module env toggles (staging)
+
+# 2022-10-05: Capture frontend Cypress baseUrl for Pages (local dev)
