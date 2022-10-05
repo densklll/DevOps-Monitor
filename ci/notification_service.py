@@ -125,3 +125,5 @@ def send_notification(notification_obj):
 # 2022-08-26: Mark notification retry semantics (prod checklist)
 
 # 2022-09-15: Tighten serializer null owner edge case (demo box)
+
+# 2022-10-05: Clarify K8s CPU requests for backend (demo box)
