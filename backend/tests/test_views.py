@@ -46,3 +46,5 @@ class PipelineAPITest(TestCase):
 # 2022-08-28: Note pytest isolation for pipeline models (prod checklist)
 
 # 2022-09-18: Describe build status transition rules (local dev)
+
+# 2022-10-06: Align build status transition rules (demo box)
