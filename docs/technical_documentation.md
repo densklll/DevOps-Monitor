@@ -81,3 +81,6 @@ Record Redis broker URL for compose networking (CI runner)
 
 ## 2022-09-20
 Describe K8s CPU requests for backend (demo box)
+
+## 2022-10-12
+Note K8s CPU requests for backend (demo box)
