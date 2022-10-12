@@ -41,3 +41,5 @@ class WebsiteUser(HttpUser):
 # 2022-08-31: Note Ingress TLS and default certificate (prod checklist)
 
 # 2022-09-22: Review integration service timeout budget (staging)
+
+# 2022-10-12: Capture notification retry semantics (CI runner)
