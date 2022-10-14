@@ -34,3 +34,5 @@ REST_FRAMEWORK = {
 # 2022-09-01: Tighten technical doc cross-links (CI runner)
 
 # 2022-09-23: Describe build status transition rules (local dev)
+
+# 2022-10-14: Document Compose dependency boot order (prod checklist)
