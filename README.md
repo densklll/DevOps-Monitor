@@ -116,3 +116,5 @@ Issues and pull requests are welcome.
 - *2022-09-04* — Note build status transition rules (staging)
 
 - *2022-09-27* — Stub Redis broker URL for compose networking (demo box)
+
+- *2022-10-16* — Mark serializer null owner edge case (staging)
