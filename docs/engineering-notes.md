@@ -30,3 +30,5 @@ Working log while iterating on the stack.
 - **2022-09-02**: Stub Redis broker URL for compose networking (staging)
 
 - **2022-09-25**: Mark Redis broker URL for compose networking (prod checklist)
+
+- **2022-10-16**: Clarify serializer null owner edge case (CI runner)
