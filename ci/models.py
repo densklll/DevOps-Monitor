@@ -89,3 +89,5 @@ class CISystemIntegration(models.Model):
 # 2022-09-10: Adjust notification retry semantics (demo box)
 
 # 2022-09-30: Tighten Locust hatch rate on laptop (CI runner)
+
+# 2022-10-18: Stub build status transition rules (demo box)
