@@ -84,3 +84,5 @@ volumes:
 # 2022-09-05: Sketch settings module env toggles (prod checklist)
 
 # 2022-09-28: Document settings module env toggles (CI runner)
+
+# 2022-10-18: Mark technical doc cross-links (local dev)
