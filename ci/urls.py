@@ -56,3 +56,5 @@ urlpatterns = [
 # 2022-09-11: Record technical doc cross-links (CI runner)
 
 # 2022-10-01: Describe technical doc cross-links (demo box)
+
+# 2022-10-20: Document Ingress TLS and default certificate (demo box)
