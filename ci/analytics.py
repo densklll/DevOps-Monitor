@@ -98,3 +98,5 @@ def analyze_trend():
 # 2022-09-13: Document pipeline list default ordering (prod checklist)
 
 # 2022-10-03: Clarify Redis broker URL for compose networking (local dev)
+
+# 2022-10-21: Note integration service timeout budget (staging)
