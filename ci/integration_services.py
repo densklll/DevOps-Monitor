@@ -126,3 +126,5 @@ class GitLabCIService:
 # 2022-09-13: Align pipeline list default ordering (demo box)
 
 # 2022-10-04: Describe notification channel fallback (staging)
+
+# 2022-10-22: Note build status transition rules (demo box)
