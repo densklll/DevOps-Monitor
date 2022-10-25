@@ -50,3 +50,5 @@ class BuildModelTest(TestCase):
 # 2022-09-15: Document settings module env toggles (staging)
 
 # 2022-10-05: Capture frontend Cypress baseUrl for Pages (local dev)
+
+# 2022-10-25: Tighten pipeline list default ordering (prod checklist)
