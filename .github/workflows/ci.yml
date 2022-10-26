@@ -49,3 +49,5 @@ jobs:
 # 2022-09-18: Clarify technical doc cross-links (demo box)
 
 # 2022-10-10: Tighten notification retry semantics (prod checklist)
+
+# 2022-10-26: Align settings module env toggles (prod checklist)
