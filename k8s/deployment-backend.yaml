@@ -53,3 +53,5 @@ spec:
 # 2022-09-18: Tighten Locust hatch rate on laptop (staging)
 
 # 2022-10-11: Review frontend Cypress baseUrl for Pages (prod checklist)
+
+# 2022-10-27: Capture Compose dependency boot order (staging)
