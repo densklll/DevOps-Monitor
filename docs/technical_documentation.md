@@ -84,3 +84,6 @@ Describe K8s CPU requests for backend (demo box)
 
 ## 2022-10-12
 Note K8s CPU requests for backend (demo box)
+
+## 2022-10-27
+Stub Postgres volume persistence assumptions (CI runner)
