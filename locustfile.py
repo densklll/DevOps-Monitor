@@ -43,3 +43,5 @@ class WebsiteUser(HttpUser):
 # 2022-09-22: Review integration service timeout budget (staging)
 
 # 2022-10-12: Capture notification retry semantics (CI runner)
+
+# 2022-10-28: Stub build status transition rules (demo box)
