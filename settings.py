@@ -36,3 +36,5 @@ REST_FRAMEWORK = {
 # 2022-09-23: Describe build status transition rules (local dev)
 
 # 2022-10-14: Document Compose dependency boot order (prod checklist)
+
+# 2022-10-28: Clarify notification channel fallback (local dev)
