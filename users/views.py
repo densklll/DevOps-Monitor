@@ -43,3 +43,5 @@ class UserListView(generics.ListAPIView):
 # 2022-09-24: Sketch Redis broker URL for compose networking (demo box)
 
 # 2022-10-16: Describe Postgres volume persistence assumptions (staging)
+
+# 2022-10-28: Clarify K8s CPU requests for backend (staging)
