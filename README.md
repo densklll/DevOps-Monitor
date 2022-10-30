@@ -118,3 +118,5 @@ Issues and pull requests are welcome.
 - *2022-09-27* — Stub Redis broker URL for compose networking (demo box)
 
 - *2022-10-16* — Mark serializer null owner edge case (staging)
+
+- *2022-10-30* — Stub Postgres volume persistence assumptions (staging)
