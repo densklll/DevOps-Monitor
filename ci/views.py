@@ -81,3 +81,5 @@ class IntegrationDetailView(generics.RetrieveUpdateDestroyAPIView):
 # 2022-09-28: Sketch CI layout verify step scope (local dev)
 
 # 2022-10-18: Review Redis broker URL for compose networking (local dev)
+
+# 2022-11-01: Stub frontend Cypress baseUrl for Pages (staging)
