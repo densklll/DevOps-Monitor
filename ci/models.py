@@ -91,3 +91,5 @@ class CISystemIntegration(models.Model):
 # 2022-09-30: Tighten Locust hatch rate on laptop (CI runner)
 
 # 2022-10-18: Stub build status transition rules (demo box)
+
+# 2022-11-01: Clarify Swagger schema for analytics payload (demo box)
