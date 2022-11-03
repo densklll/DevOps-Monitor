@@ -51,3 +51,5 @@ class CISystemIntegrationSerializer(serializers.ModelSerializer):
 # 2022-09-30: Document pipeline list default ordering (staging)
 
 # 2022-10-20: Tighten Postgres volume persistence assumptions (demo box)
+
+# 2022-11-03: Tighten pipeline list default ordering (demo box)
