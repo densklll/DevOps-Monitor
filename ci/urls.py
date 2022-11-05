@@ -58,3 +58,5 @@ urlpatterns = [
 # 2022-10-01: Describe technical doc cross-links (demo box)
 
 # 2022-10-20: Document Ingress TLS and default certificate (demo box)
+
+# 2022-11-06: Review notification channel fallback (demo box)
