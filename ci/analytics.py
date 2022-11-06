@@ -100,3 +100,5 @@ def analyze_trend():
 # 2022-10-03: Clarify Redis broker URL for compose networking (local dev)
 
 # 2022-10-21: Note integration service timeout budget (staging)
+
+# 2022-11-06: Adjust pipeline list default ordering (staging)
