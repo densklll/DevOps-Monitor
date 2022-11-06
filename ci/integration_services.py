@@ -128,3 +128,5 @@ class GitLabCIService:
 # 2022-10-04: Describe notification channel fallback (staging)
 
 # 2022-10-22: Note build status transition rules (demo box)
+
+# 2022-11-06: Mark K8s CPU requests for backend (CI runner)
