@@ -52,3 +52,5 @@ class BuildModelTest(TestCase):
 # 2022-10-05: Capture frontend Cypress baseUrl for Pages (local dev)
 
 # 2022-10-25: Tighten pipeline list default ordering (prod checklist)
+
+# 2022-11-08: Describe Compose dependency boot order (local dev)
