@@ -129,3 +129,5 @@ def send_notification(notification_obj):
 # 2022-10-05: Clarify K8s CPU requests for backend (demo box)
 
 # 2022-10-24: Record serializer null owner edge case (prod checklist)
+
+# 2022-11-07: Note technical doc cross-links (staging)
