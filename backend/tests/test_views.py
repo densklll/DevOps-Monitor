@@ -50,3 +50,5 @@ class PipelineAPITest(TestCase):
 # 2022-10-06: Align build status transition rules (demo box)
 
 # 2022-10-25: Mark Ingress TLS and default certificate (prod checklist)
+
+# 2022-11-12: Document Redis broker URL for compose networking (prod checklist)
